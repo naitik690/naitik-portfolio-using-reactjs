@@ -7,7 +7,7 @@ function Foot() {
   return (
     <>
 <footer>
-  <p>© 2025 Naitik. All rights reserved.</p>
+  <p>© 2025 Naitik. All rights Reserved.</p>
   <p>Built with 💻 by Me using HTML, CSS, React & JavaScript.</p>
 
   <p>Made with ❤️ and a lot of curiosity.</p>
