@@ -1,5 +1,6 @@
 
 import './App.css';
+import IMG from './web.jpg';
 
 function Budy() {
 
@@ -8,7 +9,7 @@ function Budy() {
     <>
  
 <div className="website">
-<img className="web"src="../public/web.jpg"/>
+<img className="web"src={IMG}/>
     
     </div>
     <div className="parent">
